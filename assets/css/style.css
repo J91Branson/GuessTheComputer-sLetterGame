@@ -1,0 +1,30 @@
+.fa-biohazard {
+    color: #171717
+}
+
+
+#directions-text {
+    font-family: 'Press Start 2P', cursive;
+    color: #3DFF2E;
+    margin-left: 2.65%;
+    margin-right: 2.65%;
+    text-indent: 5%;
+    line-height:2;
+}
+
+
+
+#text-success {
+    font-family:'Wallpoet';
+    color: #3DFF2E;
+    font-size: 400%;
+    margin-left: 2.65%;
+    margin-right: 2.65%;
+    line-height: 80%;
+}
+
+
+#display-4 {
+    font-family: 'Wallpoet';
+    color: #3DFF2E;   
+}
